@@ -10,7 +10,7 @@ Multiplayer Pong game in retro mode
 [![GitHub](https://img.shields.io/github/license/ratikaewkam/PongRetro)](https://github.com/ratikaewkam/PongRetro/blob/main/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/ratikaewkam/PongRetro?style=social)](https://github.com/ratikaewkam/PongRetro/network/members)
 
-## Feature
+## Latest Feature
 - Multiplayer mode
 
 ## How to play
